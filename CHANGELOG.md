@@ -60,9 +60,13 @@
   [Natan Rolnik](https://github.com/NatanRolnik)
   [#1270](https://github.com/realm/SwiftLint/issues/1270)
 
+* Add experimental rules for Firebase SDK compatibility.
+  [Ibrahim Ulukaya](https://github.com/iulukaya)
+  [#1346](https://github.com/realm/SwiftLint/pull/1345)
+
 ##### Bug Fixes
 
-* Fix a false positive on `large_tuple` rule when using closures.  
+* Fix a false positive on `large_tuple` rule when using closures.
   [Marcelo Fabri](https://github.com/marcelofabri)
   [#1234](https://github.com/realm/SwiftLint/issues/1234)
 
